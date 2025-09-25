@@ -7,7 +7,7 @@
 ### 🚀 &nbsp;Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,c,cs,java,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,c,java,figma,git" />
   </a>
 </p>
 
